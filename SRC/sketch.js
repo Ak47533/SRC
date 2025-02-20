@@ -1,3 +1,4 @@
+//mit racer spil
 let controlPoints = [];
 let numPoints = 4; // Antal kontrol punkter til bézier kurven
 let t = 0; // Parameter for bevægelse langs kurven
